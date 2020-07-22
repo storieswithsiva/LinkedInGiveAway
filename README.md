@@ -1,9 +1,7 @@
 
-# LinkedInGiveAway
+# LinkedInGiveAway  ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fiamsivab%2FLinkedInGiveAway)
 
-LinkedIn Giveaway Repository is a repository which I built for your personal use and my weekely giveaways. 
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fiamsivab%2FLinkedInGiveAway)
+LinkedIn Giveaway Repository is a repository which I built for your personal use and my weekely giveaways.
 
 
 <h2 align="center">
