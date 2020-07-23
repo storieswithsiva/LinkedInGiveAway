@@ -1,5 +1,6 @@
 
-# LinkedInGiveAway [![HitCount](http://hits.dwyl.com/iamsivab/LinkedInGiveAway.svg)](http://hits.dwyl.com/iamsivab/LinkedInGiveAway)
+# LinkedInGiveAway [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamsivab%2FLinkedInGiveAway)](https://hits.seeyoufarm.com)
+
 
 LinkedIn Giveaway Repository is a repository which I built for your personal use and my weekely giveaways.
 
